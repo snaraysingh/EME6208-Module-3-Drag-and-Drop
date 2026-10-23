@@ -79,6 +79,8 @@ body{
 	}
 	div#dhtmlgoodies_listOfItems div ul{	/* Left column <ul> */
 		margin-left:10px;	/* Space at the left of list - the arrow will be positioned there */
+		margin-right: auto;
+		width: 90%;
 	}
 	#dhtmlgoodies_listOfItems div p{	/* Heading above left column */
 		margin:0px;	
