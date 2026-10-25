@@ -84,13 +84,14 @@ body{
 		margin-right: auto;
 		width: 90%;
 	}
-	#dhtmlgoodies_listOfItems div p{	/* Heading above left column */
+	#dhtmlgoodies_listOfItems div p{	/* Heading above left column: Movie Titles */
 		margin:0px;	
 		font-weight:bold;
-		padding-left:12px;
-		background-color:#317082;	
-		color:#FFF;
+		padding: 8px 12px;
+		background-color:#FFA500;	
+		color:#14213D;
 		margin-bottom:5px;
+		text-align: center;
 	}
 	/* END LEFT COLUMN CSS */
 	
