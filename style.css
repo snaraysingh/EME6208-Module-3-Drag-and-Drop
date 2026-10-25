@@ -23,6 +23,7 @@ body{
 		height:750px;
 		border:1px solid #317082;
 		background-color:#FFF;
+		color: #14213D;
 		-moz-user-select:none;
 	}
 	#dhtmlgoodies_dragDropContainer ul{	/* General rules for all <ul> */
@@ -60,7 +61,7 @@ body{
 	
 	
 	/* LEFT COLUMN CSS */
-	div#dhtmlgoodies_listOfItems{	/* Left column "Available students" */
+	div#dhtmlgoodies_listOfItems{	/* Left column "Movie Titles" */
 		
 		float:left;
 		padding-left:15px;
