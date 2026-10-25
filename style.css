@@ -1,6 +1,7 @@
 body{
 		font-family: Trebuchet MS, Lucida Sans Unicode, Arial, sans-serif;	/* Font to use */
 		background-color:#E2EBED;
+		margin-left: 40px;
 	}
 	#footer{
 		height:30px;
