@@ -157,4 +157,21 @@ body{
 	}
 	.style1 {color: #FF0000}
 
-	
+	/* Movie Banner */
+ 
+
+.movie-banner {
+	width: 100%;
+	text-align: center;
+	margin-bottom: 25px;
+}
+
+.movie-banner img {
+	width: 100%;
+	max-width: 1100px;
+	height: auto;
+	display: block;
+	nargin-left: auto;
+	margin-right: auto;
+}
+
