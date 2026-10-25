@@ -119,14 +119,14 @@ body{
 		margin-left:10px;
 	}
 	
-	#dhtmlgoodies_mainContainer div p{	/* Heading above small boxes */
+	#dhtmlgoodies_mainContainer div p{	/* Heading above small boxes: Actors' names */
 		margin:0px;
-		padding:0px;
-		padding-left:12px;
+		padding: 8px 12px;
 		font-weight:bold;
-		background-color:#317082;	
-		color:#FFF;	
+		background-color:#FFA500;	
+		color:#14213D;	
 		margin-bottom:5px;
+		text-align: center;
 	}
 	
 	#dhtmlgoodies_mainContainer ul{	/* Small box in right column ,i.e <ul> */
