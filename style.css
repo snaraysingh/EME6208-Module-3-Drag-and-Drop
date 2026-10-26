@@ -19,8 +19,8 @@ body{
 		margin-top:2px;
 	}
 	#dhtmlgoodies_dragDropContainer{	/* Main container for this script */
-		width:1000px;
-		height:750px;
+		width:900px;
+		height:650px;
 		border:2px solid #FFA500;
 		border-radius: 10px;
 		background-color:#FFF;
