@@ -81,7 +81,7 @@ body{
 	}
 		
 	div#dhtmlgoodies_listOfItems div{
-		border:1px solid #FFA500;
+		border:2px solid #FFA500;
 		border-radius: 8px;
 	}
 	div#dhtmlgoodies_listOfItems div ul{	/* Left column <ul> */
