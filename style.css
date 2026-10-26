@@ -128,7 +128,8 @@ body{
 		margin:0px;
 		padding: 8px 12px;
 		font-weight:bold;
-		background-color:#FFA500;	
+		background-color:#FFA500;
+		border-radius: 6px 6px 0px 0px;
 		color:#14213D;	
 		margin-bottom:5px;
 		text-align: center;
