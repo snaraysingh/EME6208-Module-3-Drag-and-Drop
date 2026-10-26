@@ -72,6 +72,8 @@ body{
 		
 		/* CSS HACK */
 		width: 260px;	/* IE 5.x */
+		border: 2px solid #FFA500;
+		border-radius: 8px;
 		
 				
 	}
@@ -92,7 +94,8 @@ body{
 		margin:0px;	
 		font-weight:bold;
 		padding: 8px 12px;
-		background-color:#FFA500;	
+		background-color:#FFA500;
+		border-radius: 6px 6px 0px 0px;
 		color:#14213D;
 		margin-bottom:5px;
 		text-align: center;
