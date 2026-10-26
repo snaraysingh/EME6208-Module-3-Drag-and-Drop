@@ -38,7 +38,7 @@ body{
 	
 	#dhtmlgoodies_dragDropContainer li,#dragContent li,li#indicateDestination{	/* Movable items, i.e. <LI> */
 		list-style-type:none;
-		height:15px;
+		height:24px;
 		background-color:#14213D;
 		border:1px solid #FFA500;
 		border-radius: 6px;
@@ -46,8 +46,8 @@ body{
 		padding:2px;
 		margin-bottom:6px;
 		cursor:pointer;
-		font-size:13px;
-		line-height:15px;
+		font-size:16px;
+		line-height:24px;
 	}
 
 	li#indicateDestination{	/* Box indicating where content will be dropped - i.e. the one you use if you don't use arrow */
