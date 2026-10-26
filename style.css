@@ -111,6 +111,7 @@ body{
 	div#dhtmlgoodies_mainContainer{	/* Right column DIV */
 		width:590px;
 		float:left;	
+		margin-left: 15px;
 	}
 	#dhtmlgoodies_mainContainer div{	/* Parent <div> of small boxes */
 		float:left;
