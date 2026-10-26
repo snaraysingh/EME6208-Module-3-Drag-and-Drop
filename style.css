@@ -103,8 +103,8 @@ body{
 	/* END LEFT COLUMN CSS */
 	
 	#dhtmlgoodies_dragDropContainer .mouseover{	/* Mouse over effect DIV box in right column */
-		background-color:#E2EBED;
-		border:1px solid #317082;
+		background-color:#FFF3D6;
+		border:1px solid #14213D;
 	}
 	
 	/* Start main container CSS */
