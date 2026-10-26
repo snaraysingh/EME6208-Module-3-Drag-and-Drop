@@ -38,10 +38,10 @@ body{
 	#dhtmlgoodies_dragDropContainer li,#dragContent li,li#indicateDestination{	/* Movable items, i.e. <LI> */
 		list-style-type:none;
 		height:15px;
-		background-color:#FFF3D6;
-		border:1px solid #14213D;
+		background-color:#14213D;
+		border:1px solid #FFA500;
 		border-radius: 6px;
-		color: #14213D;
+		color: #FFF3D6;
 		padding:2px;
 		margin-bottom:6px;
 		cursor:pointer;
