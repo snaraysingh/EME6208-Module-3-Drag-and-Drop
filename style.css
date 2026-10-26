@@ -110,7 +110,7 @@ body{
 	/* Start main container CSS */
 	
 	div#dhtmlgoodies_mainContainer{	/* Right column DIV */
-		width:550px;
+		width:600px;
 		float:left;	
 		margin-left: 15px;
 	}
