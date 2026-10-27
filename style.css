@@ -40,9 +40,9 @@ body{
 		list-style-type:none;
 		height:24px;
 		background-color:#FFA500;
-		border:1px solid #14213D;
+		border:1px solid #FFA500;
 		border-radius: 6px;
-		color: #FFA500;
+		color: #14213D;
 		padding:2px;
 		margin-bottom:3px;
 		cursor:pointer;
