@@ -73,12 +73,12 @@ body{
 		padding-right:15px;
 		
 		/* CSS HACK */
-		width: 260px;	/* IE 5.x */
+		width: 300px;	/* IE 5.x */
 		
 				
 	}
 	#dhtmlgoodies_listOfItems ul{	/* Left(Sources) column <ul> */
-		height:500px;	
+		height:700px;	
 
 	}
 		
@@ -89,7 +89,7 @@ body{
 	div#dhtmlgoodies_listOfItems div ul{	/* Left column <ul> */
 		margin-left:10px;	/* Space at the left of list - the arrow will be positioned there */
 		margin-right: auto;
-		width: 90%;
+		width: 95%;
 	}
 	#dhtmlgoodies_listOfItems div p{	/* Heading above left column: Movie Titles */
 		margin:0px;	
