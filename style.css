@@ -79,7 +79,6 @@ body{
 	}
 	#dhtmlgoodies_listOfItems ul{	/* Left(Sources) column <ul> */
 		height:650px;
-		overflow-y:auto;
 
 	}
 		
