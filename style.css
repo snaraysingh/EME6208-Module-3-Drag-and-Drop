@@ -87,7 +87,7 @@ body{
 		border-radius: 8px;
 	}
 	div#dhtmlgoodies_listOfItems div ul{	/* Left column <ul> */
-		margin-left:10px;	/* Space at the left of list - the arrow will be positioned there */
+		margin-left:auto;	/* Space at the left of list - the arrow will be positioned there */
 		margin-right: auto;
 		width: 95%;
 	}
