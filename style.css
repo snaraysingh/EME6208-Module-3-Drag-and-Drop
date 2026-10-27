@@ -40,7 +40,8 @@ body{
 		list-style-type:none;
 		height:24px;
 		background-color:#FFA500;
-		border:1px solid #FFA500;
+		border:1px solid #A9A9A9;
+		box-shadow: 0px 3px 6px rgba(0,0,0,0.20);
 		border-radius: 6px;
 		color: #14213D;
 		padding:2px;
