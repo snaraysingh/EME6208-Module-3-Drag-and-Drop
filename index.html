@@ -98,10 +98,14 @@
 	
 	function everythingIsCorrect()
 	{
-		alert('Congratulations! Everything is correct');		
+		document.getElementById('congratulationsPopup').style.display = 'flex';		
 	}
 	
-	
+	function closeCongratulations()
+	{
+    document.getElementById('congratulationsPopup').style.display = 'none';
+	}
+		
 	function timerDrag()
 	{
 		if(dragTimer>=0 && dragTimer<10){
